@@ -1,3 +1,3 @@
 # firstrepo
 <br>
-<h1>My first repo</h1>
+<p>My first repo</p>
